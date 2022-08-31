@@ -1,0 +1,25 @@
+/*Style.css*/
+body{
+    background-color: lightblue;
+    text-align: center;
+    align-items: center;
+    list-style-position: inside;
+}
+.main.text,
+h1{
+   color: rgb(238, 204, 110); 
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 60px;
+   background-color: white;
+}
+
+.h3{
+    color: rgb(238, 118, 110); 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+ }
+
+li{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
